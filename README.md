@@ -1,1 +1,1 @@
-<img width="" height="" src="./png/dog.png"></img>
+<img width="" height="" src="./png/dog.jpg"></img>
